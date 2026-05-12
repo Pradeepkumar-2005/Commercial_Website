@@ -1,4 +1,6 @@
 # Ex02 Commercial Website
+## Name:Pradeep kumar R
+## Reg no: 212223220077
 ## Date:12/05/2026
 
 ## AIM
